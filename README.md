@@ -82,5 +82,6 @@ Minha solução busca resolver isso com uma experiência conversacional e recome
 
 https://lovable.dev/projects/4c486705-21c0-4ffc-b1c1-196d1a1ff36a
 
-<img width="1920" height="1080" alt="Captura de Tela (105)" src="https://github.com/user-attachments/assets/9259dece-0582-414e-a191-32ca6178fe73" />
+<img width="1920" height="878" alt="Captura de Tela (105)" src="https://github.com/user-attachments/assets/1ff14326-2082-41e8-b45d-9509640d412f" />
+
 
