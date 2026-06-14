@@ -77,3 +77,7 @@ Minha solução busca resolver isso com uma experiência conversacional e recome
 - **O que aprendi sobre conversar com IAs?**  
     Aprendi que conversar com IAs é como ter um parceiro de brainstorming: quanto mais claro e detalhado você é, melhor o resultado. Também percebi que a IA ajuda a organizar ideias de forma didática e pode desafiar a pensar em pontos que eu não teria considerado sozinho.
     
+---
+# Link do Projeto
+
+https://lovable.dev/projects/4c486705-21c0-4ffc-b1c1-196d1a1ff36a
