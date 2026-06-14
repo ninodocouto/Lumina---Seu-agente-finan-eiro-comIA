@@ -80,8 +80,28 @@ Minha solução busca resolver isso com uma experiência conversacional e recome
 ---
 # Link do Projeto
 
-https://lovable.dev/projects/4c486705-21c0-4ffc-b1c1-196d1a1ff36a
+https://preview--luminafinancas.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9%2EeyJ1c2VyX2lkIjoiT056R2hZQllnVU14eVl2Sk9pdkpqU1FiakFsMiIsInByb2plY3RfaWQiOiI0YzQ4NjcwNS0yMWMwLTRmZmMtYjFjMS0xOTZkMWExZmYzNmEiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjRjNDg2NzA1LTIxYzAtNGZmYy1iMWMxLTE5NmQxYTFmZjM2YSIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3ODIwMzI4MzAsIm5iZiI6MTc4MTQyODAzMCwiaWF0IjoxNzgxNDI4MDMwfQ%2EluZEvQrDLbD0vbWahVGrLwuw3awgXyj0OXkvL3d2GP7_gbItASbTET9r6cl-b623vC1fm4OD0sfWaGakjpcSwjkR75R_nXn6iqv26de6P1_88eGcAMWvyYt3zFNpQcaGAm32cCmPCa6pYZUVOHVdG0Fbz8I_4BbVMF-tEy-SPGOkYDlPsmkEghD7E80T6jRAloURxDVl4SA4N3MecMm83mUgQeAFoq1FPt6yD09jgipPLtxFajr-euWv26YheK4ZL1v30y61GRJP3tMkMReSKqacuc31uPcXDg4Dx7ZG1fYYkp6PldLE5dBETmbuk7HgaeBz4bIywZhwGz7cAjzj7WP4YarzzECqIQ6LgRcMDHDFx1PGkyZyiUzKuafrRh4LCNWuBV63Irl3xHKxiKOJMf7ke9pNARtTA3Eos5UdhqExwcJVqyL-YGemSCDXOR0f6JtBzvtlKoy9ePaQ6My9qWVPs0Xpze92ZHoUsP46Gld63k_8M1XOTTjI4Vu0sTP-K6hcZSjdNgHFSmrUeyuiPeCmzixsgCEb5ZkueAcGoVUks1bo4oxFRPPo6_uMctRbwBrhFVZsHazP7XEhZNVVPsRR462319vdMzzx9gtSr3YvwZx2pGlLdlJf4dKb30DR2LdSTGwddGyhXNwfQca3r3DCGdUAaGWZuzoIfrqjKJQ
 
 <img width="1920" height="878" alt="Captura de Tela (105)" src="https://github.com/user-attachments/assets/1ff14326-2082-41e8-b45d-9509640d412f" />
+
+---
+
+# Reflexão sobre o Processo
+
+## O que funcionou bem?
+A estruturação do PRD com base em princípios de vibe coding deixou o documento mais claro, simples e motivador.  
+A integração dos pontos de melhoria (gamificação, privacidade, design universal) fortaleceu a proposta e tornou o app mais competitivo e inclusivo.  
+O uso de linguagem acessível ajudou a manter o foco no público-alvo iniciante.
+
+## O que não funcionou como o esperado?
+No início, o PRD estava muito básico e sem diferenciais.  
+Foi necessário revisar e adicionar elementos de UX, acessibilidade e design universal para que o projeto tivesse mais valor e estivesse pronto para ser usado no Lovable.  
+Também percebi que sem detalhamento, a ideia poderia parecer genérica demais.
+
+## O que aprendi sobre conversar com IAs?
+Aprendi que conversar com IAs é como ter um parceiro de brainstorming: quanto mais claro e detalhado você é, melhor o resultado.  
+A IA ajuda a organizar ideias de forma didática e pode desafiar a pensar em pontos que eu não teria considerado sozinho.  
+Percebi também que a interação é iterativa: cada rodada de conversa melhora o projeto e adiciona novas camadas de valor.
+
 
 
