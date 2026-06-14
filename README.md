@@ -66,7 +66,7 @@ Minha solução busca resolver isso com uma experiência conversacional e recome
 
 ---
 
-Reflexão sobre o Processo
+# Reflexão sobre o Processo
 
 - **O que funcionou bem?**  
     A estruturação do PRD com base em **vibe coding** deixou o documento mais claro, simples e motivador. A integração dos pontos de melhoria (gamificação, privacidade, design universal) fortaleceu a proposta e tornou o app mais competitivo.
