@@ -80,7 +80,7 @@ Minha solução busca resolver isso com uma experiência conversacional e recome
 ---
 # Link do Projeto
 
-https://lovable.dev/projects/4c486705-21c0-4ffc-b1c1-196d1a1ff36a
+https://luminafinancas.lovable.app
 
 <img width="1920" height="878" alt="Captura de Tela (105)" src="https://github.com/user-attachments/assets/1ff14326-2082-41e8-b45d-9509640d412f" />
 
